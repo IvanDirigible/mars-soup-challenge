@@ -1,4 +1,4 @@
-# Module 9: mars-soup-challenge
+# Module 11: mars-soup-challenge
 
 ## The Task
 Using Splinter and Beautiful Soup, scrape Mars news articles, as well as Mars weather data.
